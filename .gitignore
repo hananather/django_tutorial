@@ -1,0 +1,20 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Django migrations
+*/migrations/
+
+# SQLite database files
+*.sqlite3
+
+# Local environment variables
+.env
+local_settings.py
+
+# IDE or editor specific files
+.vscode/
+.idea/
